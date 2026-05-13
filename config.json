@@ -1,0 +1,12 @@
+{
+  "theme": "dark",
+  "accent_color": "#2f7df6",
+  "launch_minimized": false,
+  "close_to_tray": true,
+  "beginner_mode": true,
+  "confirm_risky_actions": true,
+  "always_make_restore_point": false,
+  "use_recycle_bin_by_default": true,
+  "last_cleanup": null,
+  "last_update_check": null
+}
